@@ -1,0 +1,7 @@
+pend|Explora tu campus|Visita 3 lugares diferentes del campus|Pendiente|+150 pts
+pend|Asiste a un evento|Participa en un evento universitario|Pendiente|+100 pts
+pend|Conoce la biblioteca|Visita la Biblioteca Central|Pendiente|+200 pts
+pend|Aprende algo nuevo|Completa una actividad educativa|Pendiente|+120 pts
+pend|Voluntario UNAB|Participa en una actividad de voluntariado|Pendiente|+180 pts
+pend|Conecta con un profe|Asiste a una tutoría o consulta docente|Pendiente|+80 pts
+lock|Embajador del campus|Completa 10 misiones para desbloquear|Bloqueada|+500 pts

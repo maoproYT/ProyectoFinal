@@ -1,0 +1,6 @@
++150 pts|Inscripción torneo: Liga de Fútbol Sala Interfac.|26/05/2026
+-60 pts|Apuesta perdida en Cafetería Edificio L (eligió 5, salió 1)|26/05/2026
++10 pts|Apuesta ganada en Cafetería Edificio L (eligió 1, salió 1)|26/05/2026
+-50 pts|Apuesta perdida en Cafetería Edificio L (eligió 6, salió 1)|26/05/2026
+-100 pts|Apuesta perdida en Cafetería Edificio L (eligió 2, salió 4)|26/05/2026
++200 pts|Inscripción torneo: Torneo de Ajedrez UNAB|26/05/2026

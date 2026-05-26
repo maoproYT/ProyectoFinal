@@ -1,0 +1,7 @@
+22|MAY|Taller de fotografía|Aula 101, Edificio F|10:00 AM|Cultura|pend
+24|MAY|Conferencia innovación|Auditorio Mayor|02:00 PM|Académico|pend
+28|MAY|Feria de emprendedores|Plazoleta principal|09:00 AM|Emprendimiento|pend
+02|JUN|Olimpiadas deportivas|Cancha principal|08:00 AM|Deportes|pend
+05|JUN|Semana de la ingeniería|Edificio E, Sala 3|11:00 AM|Académico|pend
+10|JUN|Hackathon UNAB 2024|Lab de Sistemas|08:00 AM|Tecnología|pend
+02|JUN|Noche de Gala UNAB|Auditorio Mayor|07:00 PM|Cultura|done

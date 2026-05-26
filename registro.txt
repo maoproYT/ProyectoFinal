@@ -1,0 +1,2 @@
+mario,mario hernandez,pollo@unab.edu.co,1234766,Cedula de ciudadania
+carlos,pablotv,argel@unab.edu.co,124551,Cedula de ciudadania

@@ -1,0 +1,8 @@
+pend|Biblioteca Central|No visitado|+200 pts|Centro del campus|/img/casona.png
+pend|Plazoleta Central|No visitado|+80 pts|Zona social|/img/csu.png
+pend|Edificio F|No visitado|+60 pts|Aulas principales|/img/bosque.png
+pend|Auditorio Mayor|No visitado|+100 pts|Eventos grandes|/img/casona.png
+pend|Cafetería Central|No visitado|+40 pts|Zona de alimentación|/img/csu.png
+pend|Laboratorio de Cómputo|No visitado|+80 pts|Sistemas e informática|/img/bosque.png
+pend|Campo deportivo|No visitado|+60 pts|Zona deportiva|/img/jardin.png
+pend|Jardín botánico|No visitado|+120 pts|Zona verde|/img/jardin.png
